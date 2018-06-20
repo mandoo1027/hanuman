@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 --- 
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="https://mandoo1027.github.io/assets/images/marry.jpg"></amp-img>
 
  <h1>- 나는 누구인가?</h1>
  <br>
