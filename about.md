@@ -6,7 +6,7 @@ permalink: /about/
 
 <amp-img width="600" height="300" layout="responsive" src="https://mandoo1027.github.io/assets/images/marry.jpg"></amp-img>
 
- <h1>- 나는 누구인가?</h1>
+ <h1>- 나는 누구인가?11</h1>
  <br>
  <ol>
   <li>이름 : 김경일</li>
