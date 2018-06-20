@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 --- 
-
+li {
+	font-family:'maleungothic';
+}
 <amp-img width="600" height="300" layout="responsive" src="https://mandoo1027.github.io/assets/images/marry.jpg"></amp-img>
 
  <h1>- 나는 누구인가?</h1>
@@ -17,7 +19,7 @@ permalink: /about/
   <li>외모 : 잘생겼다고 하던데 난 잘 모르겠다    </li>
   <li>직업 : 프로그래머    </li>
   <li>취미 : 운동(마라톤, 축구, 맨손운동, 게임, 책읽기(?))    </li>
-  <li>듣고싶은말 : 일잘한다. 멋있다. 잘생겼다.     </li>
+  <li >듣고싶은말 : 일잘한다. 멋있다. 잘생겼다.     </li>
   <li>내 인생의 터닝포인트? </li>
      - 존경하는 나의 친척형의 권유로 서울IT교육센터(진주) 학원을 수료하게 된것(내 직업을 갖게된곳)<br>
      - 결혼은 정말 좋은 행위라고 생각한다. 반대로 여자는 별로 좋은게 없어보인다. 내가 잘할께
