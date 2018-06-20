@@ -6,7 +6,7 @@ permalink: /about/
 
 <style type="text/css">
 li {
-	font-family:'maleungothic';
+	font-family:'maleungothic'; 
 }
 </style>
 <amp-img width="600" height="300" layout="responsive" src="https://mandoo1027.github.io/assets/images/marry.jpg"></amp-img>
